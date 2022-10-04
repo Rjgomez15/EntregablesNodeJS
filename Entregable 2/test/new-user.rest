@@ -1,0 +1,10 @@
+POST http://127.0.0.1:4000/users HTTP/1.1
+Content-Type: application/json
+
+{
+    "first_name": "Raul",
+    "last_name": "Gomez",
+    "email": "rauljgomez14@gmail.com",
+    "password": "asdasdasdasdasdsad",
+    "birthday": "1997/08/22"
+}
